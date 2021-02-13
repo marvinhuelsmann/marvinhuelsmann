@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on McOne, LabyHelp or Swift Projects
+### 🔭 I’m currently working on MCONE, LabyHelp, Chrome Extensions like "Directly" or Swift Projects
 ### ✨ _special_ ✨
 <!--
 **marvinhuelsmann/marvinhuelsmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
