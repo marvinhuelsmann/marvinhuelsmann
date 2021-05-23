@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm <strong>Marvin Hülsmann</strong>!
 
-I´m a Java- & Web engineer and based in Germany. I’m currently working on Web Projects, Chrome Extensions like Directly or Swift Projects 😍
+I´m a Java - IOS & Web engineer and based in Germany. I’m currently working on Web Projects, Chrome Extensions like Directly or Swift Projects 😍
 
 ### What I'm focusing on 👨‍💻
 
