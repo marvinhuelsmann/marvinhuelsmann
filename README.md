@@ -7,7 +7,7 @@ I´m a Java - IOS & Web engineer and based in Germany. I’m currently working o
 ### What I'm focusing on 👨‍💻
 
 Currently improving my skills and learn other cool things.<br />
-BTW, if you´re looking for a link shorter use (https://marv.link).
+BTW, if you´re looking for socialmedia booster watch (https://yourweb.monster).
 
 ### Find me elsewhere 🌎
 
