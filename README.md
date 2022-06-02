@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/QUk1uia.png"/>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> Hello, I'm <strong>Marvin Hülsmann</strong>!!!
+### Hello, I'm <strong>Marvin Hülsmann</strong>!!!
 
 I´m a Java - IOS & Web engineer and based in Germany. I’m currently working on Web Projects, Chrome Extensions like Directly or Swift Projects 😍
 
