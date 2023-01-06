@@ -2,7 +2,7 @@
 
 ### Hello, I'm <strong>Marvin Hülsmann</strong>!!!
 
-I´m a Java - IOS & Web engineer and based in Germany. I’m currently working on Web Projects, Chrome Extensions like Directly or Swift Projects 😍
+I´m a Java - IOS & Web engineer and based in Germany. I’m currently working on Web Projects, Chrome Extensions like Directly or Swift Projects like my iOS App Financy 😍
 
 ### What I'm focusing on 👨‍💻
 
